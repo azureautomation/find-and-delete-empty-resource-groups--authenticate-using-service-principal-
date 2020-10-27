@@ -1,7 +1,7 @@
 {
     "Author": "Stas Kuvshinov",
     "ContentSize": 43770,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-and-delete-empty-resource-groups-(authenticate-using-service-principal)/master/Find-EmptyResourceGroups_connect_with_serviceprincipal.graphrunbook",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-and-delete-empty-resource-groups--authenticate-using-service-principal-/master/Find-EmptyResourceGroups_connect_with_serviceprincipal.graphrunbook",
     "DownloadCount": 1194,
     "Id": "Find-and-Delete-Empty-863bb60d",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "This runbook connects to Azure using a child runbook and finds (and optionally deletes) resource groups with no resources.\u00a0 You can attach a schedule to this runbook to run it periodically for cleanup purposes.",
     "Title": "Find and Delete Empty Resource Groups (authenticate using Service Principal)",
     "UpdatedDate": "2016-6-3T00:00:00",
-    "Url": "https://github.com/azureautomation/find-and-delete-empty-resource-groups-(authenticate-using-service-principal)",
+    "Url": "https://github.com/azureautomation/find-and-delete-empty-resource-groups--authenticate-using-service-principal-",
     "UserTags": "CleanUp, Resource Groups, GraphicalPS"
 }
